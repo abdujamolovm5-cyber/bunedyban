@@ -1,27 +1,28 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html><!DOCTYPE html>
+<html lang="uz">
 <head>
-    <title>Mening sayt</title>
+    <meta charset="UTF-8">
+    <title>Malika</title>
     <style>
         body {
-            background-color: white;
+            margin: 0;
+            height: 100vh;
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 100vh;
-            margin: 0;
-            font-family: Arial;
+            background-color: white;
+            font-family: Arial, sans-serif;
         }
         h1 {
+            font-size: 45px;
             color: black;
-            font-size: 30px;
             text-align: center;
         }
     </style>
 </head>
 <body>
 
-<h1>"bunyodbek 50k push"</h1>
+<h1>Malika, man sani yaxshi ko‘raman ❤️</h1>
 
 </body>
 </html>
